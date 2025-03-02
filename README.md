@@ -65,5 +65,5 @@ python object detection.ipynb
 ## 📜 License
 📄 **MIT License**  
 
-🛠 **Happy Coding!** 🚀🎯
+
 
